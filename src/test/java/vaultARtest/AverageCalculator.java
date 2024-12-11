@@ -32,7 +32,5 @@ public class AverageCalculator {
         scanner.close();
     }
 }
-public void newMethod() {
-  System.out.println("New method added!");
-}
+
 
