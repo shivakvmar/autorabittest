@@ -36,7 +36,3 @@ public class AverageCalculator {
 
 
 
-// New method added
-public void newMethod() {
-  System.out.println("New method added!");
-}
