@@ -11,8 +11,4 @@ public class AverageCalculator {
         double average = sum / numbers.length;
         // Output the result
         System.out.println("The average is: " + average);
-public void shivaMethod() {
-public void shivaMethod() {
-\ No newline at end of file
- public void shivaramMethod() {
-\ No newline at end of file
+        }}}}
