@@ -40,3 +40,9 @@ public void shivaMethod() {
    System.out.println("New method added!");
 }
 \ No newline at end of file
+
+
+// New method added
+public void shivaramkumarMethod() {
+  System.out.println("New method added!");
+}
