@@ -1,23 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>vaultARtest</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-		<buildCommand>
-			<name>org.eclipse.m2e.core.maven2Builder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-		<nature>org.eclipse.m2e.core.maven2Nature</nature>
-	</natures>
-</projectDescription>
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2pl
+Y3REZXNjcmlwdGlvbj4KCTxuYW1lPnZhdWx0QVJ0ZXN0PC9uYW1lPgoJPGNv
+bW1lbnQ+PC9jb21tZW50PgoJPHByb2plY3RzPgoJPC9wcm9qZWN0cz4KCTxi
+dWlsZFNwZWM+CgkJPGJ1aWxkQ29tbWFuZD4KCQkJPG5hbWU+b3JnLmVjbGlw
+c2UuamR0LmNvcmUuamF2YWJ1aWxkZXI8L25hbWU+CgkJCTxhcmd1bWVudHM+
+CgkJCTwvYXJndW1lbnRzPgoJCTwvYnVpbGRDb21tYW5kPgoJCTxidWlsZENv
+bW1hbmQ+CgkJCTxuYW1lPm9yZy5lY2xpcHNlLm0yZS5jb3JlLm1hdmVuMkJ1
+aWxkZXI8L25hbWU+CgkJCTxhcmd1bWVudHM+CgkJCTwvYXJndW1lbnRzPgoJ
+CTwvYnVpbGRDb21tYW5kPgoJPC9idWlsZFNwZWM+Cgk8bmF0dXJlcz4KCQk8
+bmF0dXJlPm9yZy5lY2xpcHNlLmpkdC5jb3JlLmphdmFuYXR1cmU8L25hdHVy
+ZT4KCQk8bmF0dXJlPm9yZy5lY2xpcHNlLm0yZS5jb3JlLm1hdmVuMk5hdHVy
+ZTwvbmF0dXJlPgoJPC9uYXR1cmVzPgo8L3Byb2plY3REZXNjcmlwdGlvbj4K
