@@ -16,12 +16,4 @@ public class AverageCalculator {
         System.out.println("The average is: " + average);
     }
 
-
-public void newMethod() {
-   
-}
-
-
-// New method added
-  System.out.println("New method added!");
 }
