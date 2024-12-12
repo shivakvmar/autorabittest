@@ -19,5 +19,3 @@ double average = sum / numbers.length;
 public void shivaramkumarMethod() {
   System.out.println("New method added!");
 }
-public void shivaramkumarMethod() {
-public void shivaramkumarMethod() {
