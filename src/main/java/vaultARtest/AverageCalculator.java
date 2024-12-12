@@ -13,8 +13,3 @@ double average = sum / numbers.length;
         System.out.println("The average is: " + average);
         }}}
 
-}
-
-public void shivaramkumarMethod() {
-  System.out.println("New method added!");
-}
