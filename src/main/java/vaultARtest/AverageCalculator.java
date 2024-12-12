@@ -1,8 +1,4 @@
-
-
-// New method added
 public void shivaramMethod() {
-  System.out.println("New method added!");
 package vaultARtest;
 public class AverageCalculator {
     public static void main(String[] args) {
@@ -12,37 +8,11 @@ public class AverageCalculator {
         double sum = 0;
         for (double num : numbers) {
             sum += num;
-        }
-        
         double average = sum / numbers.length;
         // Output the result
         System.out.println("The average is: " + average);
-    }
-
-
-}
-
-
-// New method added
 public void shivaMethod() {
-  System.out.println("New method added!");
-}
-
-// New method added
 public void shivaMethod() {
-  System.out.println("New method added!");
-}
 \ No newline at end of file
- 
- 
- // New method added
  public void shivaramMethod() {
-   System.out.println("New method added!");
-}
 \ No newline at end of file
-
-
-// New method added
-public void shivaramkumarMethod() {
-  System.out.println("New method added!");
-}
