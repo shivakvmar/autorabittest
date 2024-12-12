@@ -16,10 +16,3 @@ public class AverageCalculator {
 
 
 }
-
-
-
-// New method added
-public void shivaMethod() {
-  System.out.println("New method added!");
-}
