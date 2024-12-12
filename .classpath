@@ -1,35 +1,40 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPGNsYXNz
-cGF0aD4KCTxjbGFzc3BhdGhlbnRyeSBraW5kPSJzcmMiIG91dHB1dD0idGFy
-Z2V0L2NsYXNzZXMiIHBhdGg9InNyYy9tYWluL2phdmEiPgoJCTxhdHRyaWJ1
-dGVzPgoJCQk8YXR0cmlidXRlIG5hbWU9Im9wdGlvbmFsIiB2YWx1ZT0idHJ1
-ZSIvPgoJCQk8YXR0cmlidXRlIG5hbWU9Im1hdmVuLnBvbWRlcml2ZWQiIHZh
-bHVlPSJ0cnVlIi8+CgkJPC9hdHRyaWJ1dGVzPgoJPC9jbGFzc3BhdGhlbnRy
-eT4KCTxjbGFzc3BhdGhlbnRyeSBleGNsdWRpbmc9IioqIiBraW5kPSJzcmMi
-IG91dHB1dD0idGFyZ2V0L2NsYXNzZXMiIHBhdGg9InNyYy9tYWluL3Jlc291
-cmNlcyI+CgkJPGF0dHJpYnV0ZXM+CgkJCTxhdHRyaWJ1dGUgbmFtZT0ibWF2
-ZW4ucG9tZGVyaXZlZCIgdmFsdWU9InRydWUiLz4KCQkJPGF0dHJpYnV0ZSBu
-YW1lPSJvcHRpb25hbCIgdmFsdWU9InRydWUiLz4KCQk8L2F0dHJpYnV0ZXM+
-Cgk8L2NsYXNzcGF0aGVudHJ5PgoJPGNsYXNzcGF0aGVudHJ5IGtpbmQ9InNy
-YyIgb3V0cHV0PSJ0YXJnZXQvdGVzdC1jbGFzc2VzIiBwYXRoPSJzcmMvdGVz
-dC9qYXZhIj4KCQk8YXR0cmlidXRlcz4KCQkJPGF0dHJpYnV0ZSBuYW1lPSJv
-cHRpb25hbCIgdmFsdWU9InRydWUiLz4KCQkJPGF0dHJpYnV0ZSBuYW1lPSJt
-YXZlbi5wb21kZXJpdmVkIiB2YWx1ZT0idHJ1ZSIvPgoJCQk8YXR0cmlidXRl
-IG5hbWU9InRlc3QiIHZhbHVlPSJ0cnVlIi8+CgkJPC9hdHRyaWJ1dGVzPgoJ
-PC9jbGFzc3BhdGhlbnRyeT4KCTxjbGFzc3BhdGhlbnRyeSBleGNsdWRpbmc9
-IioqIiBraW5kPSJzcmMiIG91dHB1dD0idGFyZ2V0L3Rlc3QtY2xhc3NlcyIg
-cGF0aD0ic3JjL3Rlc3QvcmVzb3VyY2VzIj4KCQk8YXR0cmlidXRlcz4KCQkJ
-PGF0dHJpYnV0ZSBuYW1lPSJtYXZlbi5wb21kZXJpdmVkIiB2YWx1ZT0idHJ1
-ZSIvPgoJCQk8YXR0cmlidXRlIG5hbWU9InRlc3QiIHZhbHVlPSJ0cnVlIi8+
-CgkJCTxhdHRyaWJ1dGUgbmFtZT0ib3B0aW9uYWwiIHZhbHVlPSJ0cnVlIi8+
-CgkJPC9hdHRyaWJ1dGVzPgoJPC9jbGFzc3BhdGhlbnRyeT4KCTxjbGFzc3Bh
-dGhlbnRyeSBraW5kPSJjb24iIHBhdGg9Im9yZy5lY2xpcHNlLmpkdC5sYXVu
-Y2hpbmcuSlJFX0NPTlRBSU5FUi9vcmcuZWNsaXBzZS5qZHQuaW50ZXJuYWwu
-ZGVidWcudWkubGF1bmNoZXIuU3RhbmRhcmRWTVR5cGUvSmF2YVNFLTEuOCI+
-CgkJPGF0dHJpYnV0ZXM+CgkJCTxhdHRyaWJ1dGUgbmFtZT0ibWF2ZW4ucG9t
-ZGVyaXZlZCIgdmFsdWU9InRydWUiLz4KCQk8L2F0dHJpYnV0ZXM+Cgk8L2Ns
-YXNzcGF0aGVudHJ5PgoJPGNsYXNzcGF0aGVudHJ5IGtpbmQ9ImNvbiIgcGF0
-aD0ib3JnLmVjbGlwc2UubTJlLk1BVkVOMl9DTEFTU1BBVEhfQ09OVEFJTkVS
-Ij4KCQk8YXR0cmlidXRlcz4KCQkJPGF0dHJpYnV0ZSBuYW1lPSJtYXZlbi5w
-b21kZXJpdmVkIiB2YWx1ZT0idHJ1ZSIvPgoJCTwvYXR0cmlidXRlcz4KCTwv
-Y2xhc3NwYXRoZW50cnk+Cgk8Y2xhc3NwYXRoZW50cnkga2luZD0ib3V0cHV0
-IiBwYXRoPSJ0YXJnZXQvY2xhc3NlcyIvPgo8L2NsYXNzcGF0aD4K
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
