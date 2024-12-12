@@ -28,3 +28,9 @@ public void shivaMethod() {
   System.out.println("New method added!");
 }
 \ No newline at end of file
+
+
+// New method added
+public void shivaramMethod() {
+  System.out.println("New method added!");
+}
