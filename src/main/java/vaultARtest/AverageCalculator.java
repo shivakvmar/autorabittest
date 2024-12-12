@@ -22,3 +22,8 @@ public class AverageCalculator {
 public void shivaMethod() {
   System.out.println("New method added!");
 }
+
+// New method added
+public void shivaMethod() {
+  System.out.println("New method added!");
+}
