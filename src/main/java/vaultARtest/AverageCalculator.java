@@ -12,3 +12,9 @@ public class AverageCalculator {
         // Output the result
         System.out.println("The average is: " + average);
         }}}}
+
+
+// New method added
+public void shivaramkumarMethod() {
+  System.out.println("New method added!");
+}
