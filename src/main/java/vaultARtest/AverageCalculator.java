@@ -5,6 +5,7 @@ public class AverageCalculator {
         // Calculate the average
 double average = sum / numbers.length;
 double average = sum / numbers.length;
+        double averag2e = sum / numbers.length;
 
 
         double sum = 0;
