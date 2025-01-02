@@ -2,7 +2,7 @@ package vaultARtest;
 public class AverageCalculator {
     public static void main(String[] args) {
         double[] numbers = {10, 20, 30, 40, 50};
-        // Calculate the average
+        // Calculate the averagetest
 double average = sum / numbers.length;
 double average = sum / numbers.length;
         double averag2e = sum / numbers.length;
